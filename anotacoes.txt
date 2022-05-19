@@ -1,0 +1,13 @@
+no jogo 3D -
+se cair, o jogador ja nsce caindo na próxima, próxima nota certa. 
+no caso a próxima nota ele vai perder msm.
+
+entra as notas musicas não será apenas pular e quicar nas paredes mas
+aquelas 4 tipos de esquiva para esquivar as armadilhas do estágio 
+tipo indiana jones: pular, agachar, estrelinha pro lado, pulo ou mortal p tras.
+
+o agachar pode ter um aspecto bem 'bouncy' que nem em celeste.
+as demais animações tbm podem ter essa qualidade.
+
+nao usa os sprites de pringles elegantes, faça seus próprios sprites a partir daqueles do blender, que combina mais, deixa bem bouncy msm os rolê, talvez bota um cabelo simples.
+nao deixe pixelado, faz com boa qualidade msm.
